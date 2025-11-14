@@ -12,7 +12,7 @@ This project is a menu-driven application that allows users to manage books, ref
   - Add regular books
   - Add reference books
   - Display all books
-  - Display reference books with borrowing status
+  - Display reference books
 
 - **Member Management**
   - Register new library members
@@ -21,13 +21,9 @@ This project is a menu-driven application that allows users to manage books, ref
 
 - **Librarian Management**
   - Add librarian staff
-  - Track work shifts
-  - Display librarian information
 
 - **Error Handling**
   - Graceful handling of invalid inputs
-  - Array overflow protection
-  - User-friendly error messages
 
 ## Project Structure
 ```
