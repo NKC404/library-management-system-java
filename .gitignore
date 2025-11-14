@@ -1,0 +1,17 @@
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.eclipse/
+*.classpath
+*.project
+
+# OS specific files
+.DS_Store
